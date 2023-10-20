@@ -1,3 +1,5 @@
+.vscode
+.idea
 __pycache__/
 models.py
 .env

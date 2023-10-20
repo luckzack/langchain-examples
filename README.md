@@ -53,7 +53,7 @@ display(HTML("<style>.container { width:90% !important; }</style>"))
 ```
 
 ### Env
-Rename `.env.example` to `.env` and fill environment variables as below:
+Rename `.env.template` to `.env` and fill environment variables as below:
 ```toml
 # openai
 OPENAI_API_KEY="xxx"
