@@ -1,11 +1,8 @@
 # 十几个范例带你快速上手 LangChain（包含完整代码和数据集，持续更新~）
 
-
-<div style="text-align: center;">
+<p align="center">
 😊
-</div>
-
-<br>
+</p>
 
 通过演示 LangChain 最具有代表性的应用范例，带你快速上手 LangChain 各个使用场景。这些范例大都简洁易懂，非常具有实操价值。
 
