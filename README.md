@@ -1,6 +1,12 @@
 # 十几个范例带你快速上手 LangChain（包含完整代码和数据集，持续更新~）
 
 
+<div style="text-align: center;">
+😊
+</div>
+
+<br>
+
 通过演示 LangChain 最具有代表性的应用范例，带你快速上手 LangChain 各个使用场景。这些范例大都简洁易懂，非常具有实操价值。
 
 - [x] 1. 文本总结(Summarization): 对文本/聊天内容的重点内容总结。
@@ -9,13 +15,13 @@
 
 - [x] 3. 信息抽取(Extraction): 从文本内容中抽取结构化的内容。
 
-- [x] 4，结果评估(Evaluation): 分析并评估 LLM 输出的结果的好坏。
+- [x] 4. 结果评估(Evaluation): 分析并评估 LLM 输出的结果的好坏。
 
-- [x] 5，数据库问答(QA over Database): 从数据库/类数据库内容中抽取数据信息。
+- [x] 5. 数据库问答(QA over Database): 从数据库/类数据库内容中抽取数据信息。
 
 - [x] 6. 代码理解(Code Understanding): 分析代码，并从代码中获取逻辑，同时也支持QA。
 
-- [x] 7. API交互(Interacting with APIs): 通过对 API 文档的阅读，理解 PI 文档并向真实世界调用API获取真实数据。
+- [x] 7. API交互(Interacting with APIs): 通过对 API 文档的阅读，理解 API 文档并向真实世界调用API获取真实数据。
 
 - [x] 8. 聊天机器人(Chatbots): 具备记忆能力的聊天机器人框架（有 UI 交互能力)。
 
